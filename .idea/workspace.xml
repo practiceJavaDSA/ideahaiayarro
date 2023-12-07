@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9fa39fcd-2693-450e-9167-a20a5f39ef4a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SumOfNNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/countinousString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/countinousString1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/multiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oppositePrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/printIncreaseDecrease.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/printtillN.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2ZCjx9uv2u4lNHOqM91alSAscO5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.SumOfNNumbers.executor": "Run",
+    "Application.countinousString.executor": "Run",
+    "Application.countinousString1.executor": "Run",
+    "Application.multiply.executor": "Run",
+    "Application.oppositePrint.executor": "Run",
+    "Application.printIncreaseDecrease.executor": "Run",
+    "Application.printtillN.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-8336523bb0d9-b81783ad" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fa39fcd-2693-450e-9167-a20a5f39ef4a" name="Changes" comment="" />
+      <created>1701933198416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701933198416</updated>
+    </task>
+    <servers />
+  </component>
+</project>
