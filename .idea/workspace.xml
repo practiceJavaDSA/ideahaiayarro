@@ -4,20 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9fa39fcd-2693-450e-9167-a20a5f39ef4a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recursion.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumOfNNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/countinousString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/countinousString1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/multiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oppositePrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/printIncreaseDecrease.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/printtillN.java" afterDir="false" />
+    <list default="true" id="9fa39fcd-2693-450e-9167-a20a5f39ef4a" name="Changes" comment="This is recurse">
+      <change afterPath="$PROJECT_DIR$/src/NthEvenFibnocciSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/countXinString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fibnocii.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/noX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/powerCalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/removeX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/towerOfHanoi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +27,21 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -47,22 +56,30 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.NthEvenFibnocciSeries.executor": "Run",
     "Application.SumOfNNumbers.executor": "Run",
+    "Application.countXinString.executor": "Run",
     "Application.countinousString.executor": "Run",
     "Application.countinousString1.executor": "Run",
+    "Application.fibnocii.executor": "Run",
     "Application.multiply.executor": "Run",
+    "Application.noX.executor": "Run",
     "Application.oppositePrint.executor": "Run",
+    "Application.powerCalculation.executor": "Run",
     "Application.printIncreaseDecrease.executor": "Run",
     "Application.printtillN.executor": "Run",
+    "Application.removeX.executor": "Run",
+    "Application.towerOfHanoi.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Updated",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
+        <option value="jdk-19.0.2-corretto-19.0.2-249ae16d76d6-36550cda" />
         <option value="jdk-19.0.2-corretto-19.0.2-8336523bb0d9-b81783ad" />
       </set>
     </attachedChunks>
@@ -76,6 +93,19 @@
       <option name="presentableId" value="Default" />
       <updated>1701933198416</updated>
     </task>
+    <task id="LOCAL-00001" summary="This is recurse">
+      <option name="closed" value="true" />
+      <created>1701943273615</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701943273615</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This is recurse" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is recurse" />
   </component>
 </project>
